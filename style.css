@@ -217,9 +217,9 @@ input,select{vertical-align:middle}
 }
 .typewriter h1 {
   font-family:  "Courier New", Courier, monospace;
-  color:   #1ea41c;
+  color:   #b5b5b5;
   overflow: hidden; 
-  border-right: .15em solid   #1ea41c; 
+  border-right: .15em solid   #ffffff; 
   white-space: nowrap; 
   margin: 0 auto; 
   letter-spacing: .13em; 
